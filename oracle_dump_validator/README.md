@@ -15,5 +15,5 @@ How to use it:
 
 </i>
 
-where
+where p_dir - full path to the dump file folder, p_file - dump file name
 # usefull_scripts
